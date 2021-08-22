@@ -6,7 +6,6 @@ const models = [Log];
 
 class Database {
   constructor() {
-    console.log("Passei aqui");
     this.mongo();
   }
 
@@ -21,6 +20,4 @@ class Database {
   }
 }
 
-/*   useFindAndModify: true,
-, */
 module.exports = new Database();
