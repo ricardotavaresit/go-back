@@ -16,7 +16,7 @@
 
 - Views are on: `localhost:3333`
 
-## :computer: Tecnologias Utilizadas
+## :computer: Technologies used
 
 Tecnologies:
 
@@ -26,7 +26,7 @@ Tecnologies:
 
 DataBases:
 
-- MongoDB
+- MongoDB;
 
 Dependencies:
 
