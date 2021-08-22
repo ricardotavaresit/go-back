@@ -21,7 +21,7 @@ class WeatherController {
 
           data.push({ data: todayData, local: regioDescription });
         } catch (error) {
-          console.error(error);
+          console.log(error);
         }
       }
       return res.status(200).json(data);
