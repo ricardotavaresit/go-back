@@ -4,8 +4,8 @@
 
 ## Demo
 
--Weather(Aveiro): https://gocontactback.herokuapp.com/weather/1010500
--Logs: https://gocontactback.herokuapp.com/logs
+- [Weather(Aveiro)](https://gocontactback.herokuapp.com/weather/1010500)
+- [Logs](https://gocontactback.herokuapp.com/logs)
 
 ## Quick start
 
