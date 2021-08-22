@@ -4,11 +4,11 @@
 
 ## Demo
 
--  
+-
 
 ## Quick start
 
-- [Clone the repo](https://github.com/devias-io/react-material-dashboard/archive/master.zip) or [Download from Devias](https://devias.io/products/material-react-dashboard) or clone the repo: `git clone https://github.com/ricardotavaresit/go-back.git`
+- Clone the repo: `git clone https://github.com/ricardotavaresit/go-back.git`
 
 - Install dependencies: `npm install` or `yarn`
 
