@@ -1,8 +1,6 @@
 class Utils {
   getDescById(regionId) {
-    // console.log("Passou aqui e tinhao ID: " + regionId);
-    // return "Cenas" + regionId;
-
+ 
     switch (regionId) {
       case 1010500:
         return "Aveiro";
