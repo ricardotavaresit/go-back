@@ -9,4 +9,4 @@ const LogSchema = new mongoose.Schema(
   }
 );
 
-module.exports = mongoose.model("Log2", LogSchema);
+module.exports = mongoose.model("Log", LogSchema);
