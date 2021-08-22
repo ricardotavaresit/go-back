@@ -1,6 +1,6 @@
 ## GoContact - BackEnd
 
-> Projeto desenvolvido no âmbito do processo de recrutamento da GoContact
+> Projeto desenvolvido no âmbito do processo de recrutamento da GoContact & Michael Page
 
 ## Demo
 
