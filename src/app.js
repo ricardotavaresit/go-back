@@ -1,7 +1,6 @@
 const express = require("express");
 const routes = require("./routes");
 const cors = require("cors");
-
 require("./database");
 
 class App {
@@ -16,8 +15,6 @@ class App {
 
     this.server.use(routes);
   }
-
-
 }
 
 module.exports = new App().server;
