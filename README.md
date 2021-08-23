@@ -15,7 +15,7 @@
 
 - Start the server: `npm run start` or `yarn start`
 
-- Views are on: `localhost:3333`
+- Data are on: `localhost:3333`
 
 ## Technologies used
 
