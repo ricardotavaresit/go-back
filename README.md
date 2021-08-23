@@ -17,7 +17,7 @@
 
 - Views are on: `localhost:3333`
 
-## :computer: Technologies used
+## Technologies used
 
 Tecnologies:
 
