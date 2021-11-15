@@ -1,7 +1,3 @@
-## GoContact - BackEnd
-
-> Projeto desenvolvido no âmbito do processo de recrutamento da GoContact & Michael Page
-
 ## Demo
 
 - [Weather (Aveiro)](https://gocontactback.herokuapp.com/weather/1010500)
